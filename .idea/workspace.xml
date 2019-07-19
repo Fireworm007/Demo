@@ -36,18 +36,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Order/src/main/java/com/homework/order/model/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/homework/ui/UiApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
@@ -89,8 +77,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <first_editor relative-caret-position="300">
+                <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -377,7 +365,7 @@
       <workItem from="1563504360948" duration="1037000" />
       <workItem from="1563506130938" duration="144000" />
       <workItem from="1563506305774" duration="700000" />
-      <workItem from="1563507066561" duration="7952000" />
+      <workItem from="1563507066561" duration="8861000" />
     </task>
     <task id="LOCAL-00001" summary="光是测试上传，啥也没做">
       <created>1563526832317</created>
@@ -400,7 +388,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563527097297</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加一张图，上传看效果">
+      <created>1563527280694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563527280694</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加一张图，上传看效果">
+      <created>1563527846412</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563527846412</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -409,12 +411,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10760000" />
+    <option name="totallyTimeSpent" value="11669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49328214" visible="true" weight="0.17583893" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49328214" visible="true" weight="0.17583893" />
       <window_info id="Structure" order="1" sideWeight="0.50671786" side_tool="true" weight="0.17583893" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -431,8 +434,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3286119" />
@@ -706,11 +709,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <first_editor relative-caret-position="300">
+            <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
