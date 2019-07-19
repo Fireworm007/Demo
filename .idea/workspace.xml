@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c5b605d-2807-4647-96e5-9c86a14fa2de" name="Default Changelist" comment="" />
+    <list default="true" id="4c5b605d-2807-4647-96e5-9c86a14fa2de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/User/target/" />
@@ -83,12 +85,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="225">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
+                <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -97,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="142">
@@ -174,8 +176,8 @@
         <option value="$PROJECT_DIR$/UI/src/main/java/com/homework/ui/controller/MainController.java" />
         <option value="$PROJECT_DIR$/UI/src/test/java/com/homework/ui/controller/MainControllerTest.java" />
         <option value="$PROJECT_DIR$/test/src/Main.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -375,7 +377,7 @@
       <workItem from="1563504360948" duration="1037000" />
       <workItem from="1563506130938" duration="144000" />
       <workItem from="1563506305774" duration="700000" />
-      <workItem from="1563507066561" duration="7717000" />
+      <workItem from="1563507066561" duration="7952000" />
     </task>
     <task id="LOCAL-00001" summary="光是测试上传，啥也没做">
       <created>1563526832317</created>
@@ -384,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563526832317</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加一张图，上传看效果">
+      <created>1563527078743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563527078743</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加一张图，上传看效果">
+      <created>1563527097297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563527097297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -393,11 +409,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10525000" />
+    <option name="totallyTimeSpent" value="10760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49328214" visible="true" weight="0.17583893" />
       <window_info id="Structure" order="1" sideWeight="0.50671786" side_tool="true" weight="0.17583893" />
@@ -441,7 +456,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="光是测试上传，啥也没做" />
-    <option name="LAST_COMMIT_MESSAGE" value="光是测试上传，啥也没做" />
+    <MESSAGE value="添加一张图，上传看效果" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加一张图，上传看效果" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -683,22 +699,22 @@
     <entry file="file://$PROJECT_DIR$/.README_images/e20a7341.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

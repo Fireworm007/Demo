@@ -8,3 +8,5 @@ Q1:在添加spring boot 根据
 主要原因是不清楚dependency和dependencyManagement之间的区别：
 [Maven实战（六）--- dependencies与dependencyManagement的区别](https://blog.csdn.net/liutengteng130/article/details/46991829)
 ![](.README_images/dff3342e.png)
+
+![](.README_images/05e67f85.png)
